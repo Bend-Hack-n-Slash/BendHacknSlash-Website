@@ -141,9 +141,6 @@ aside > section a {
     color: rgb(200,200,200);
     padding: 5px;
     text-decoration: none;
-    border: 2px rgb(0,120,0) solid;
-    border-radius: 10px;
-    background-color: rgb(20,100,70);
     text-decoration: none;
 
     padding-left: 10px;
@@ -206,4 +203,5 @@ footer > * {
         margin-right: 5%;
     }
 }
+
 
