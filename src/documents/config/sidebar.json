@@ -1,6 +1,4 @@
 {
-  "position": "right",
-  "sidebar_config_list":[
-  
-  ]
+  "position": "left",
+  "sidebar_config_list": []
 }

@@ -1,5 +1,5 @@
 {
-  "position": "top",
+  "position": "left",
   "menu_config_list": [
     {
       "text": "Home",
@@ -7,7 +7,13 @@
     },
     {
       "text": "About",
-      "link": "/about.html"
+      "link": "/about.html",
+      "submenu_config_list": [
+        {
+          "text": "test",
+          "link": "/about.html"
+        }
+      ]
     },
     {
       "text": "News Posts",
