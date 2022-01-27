@@ -4,6 +4,19 @@ body {
     color: rgb(200,200,200);
 }
 
+
+a {
+    color: rgb(100,200,100);
+}
+
+a:hover {
+    color: rgb(100,250,100);
+}
+
+a:visited {
+    color: rgb(100,150,100);
+}
+
 main img {
     border: 8px solid rgb(250,255,250);
     padding: 8px;
