@@ -1,10 +1,10 @@
 {
-  "brand": "Site Brand Name",
-  "title": "Site Title",
-  "subtitle": "Subtitle Text",
-  "description": "Site Description blurb",
-  "url": "http://siteurl.com/",
-  "favicon_image": "/images/mission-icon.svg",
-  "logo_image": "/images/mission-icon.svg",
+  "brand": "Bend Hack 'n' Slash",
+  "title": "Bend Hack 'n' Slash",
+  "subtitle": " ",
+  "description": "An Open Source Engineering and Programming Group based around Christian Values with a focus on open hardware, modding, and gaming.",
+  "url": "https://bendhacknslash.com",
+  "favicon_image": "images/bhs-logo-128.png",
+  "logo_image": "images/bhs-logo-300.png",
   "posts_name": "News"
 }
