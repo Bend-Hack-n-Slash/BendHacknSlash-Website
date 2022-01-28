@@ -52,7 +52,8 @@ nav {
     border: 2px rgb(20,20,20) solid;
     
     position: absolute;
-    right: 10px;
+    right: 20px;
+    top: 10px;
 }
 
 #nav_container {
