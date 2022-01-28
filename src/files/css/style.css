@@ -50,6 +50,9 @@ nav {
     background-color: rgb(40,40,40);
     border-radius: 30px;
     border: 2px rgb(20,20,20) solid;
+    
+    position: absolute;
+    right: 10px;
 }
 
 #nav_container {
@@ -167,13 +170,22 @@ footer > * {
 
 /*##Mobile specific styling##*/
 @media screen and (max-width: 44em) {
+    #nav_container {
+        background-color: rgb(30 30 30);
+        border: 2px rgb(20,20,20) solid;
+        border-radius: 20px;
+
+        position: fixed;
+        right: 0px;
+    }
+
     /*set the sub menus so they are inline when oppend instead of overlapping*/
     nav.nav_top #nav_container > li ul {
         position: relative;
     }
 
     #mobile_nav_icon:after {
-        font-size: 50px;
+        font-size: 80px;
         left: 10;
     }
 
