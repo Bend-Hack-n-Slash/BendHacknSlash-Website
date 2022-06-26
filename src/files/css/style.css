@@ -134,6 +134,12 @@ main {
     margin-top: 100px;
 }
 
+/*Styles code blocks that are highlighted*/
+pre[class*="language-"] {
+    background-color: #2f3134;
+    border-radius: 40px;
+}
+
 /*###Sidebar###*/
 aside {
     padding: 4px;
